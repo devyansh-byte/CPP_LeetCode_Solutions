@@ -13,4 +13,36 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0912-sort-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
