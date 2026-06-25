@@ -1,34 +1,17 @@
 class Solution {
 public:
-void merged(vector<int> v1,vector<int> v2,vector<int>&res){ 
-int i=0,j=0,k=0;
-while(i<v1.size() && j<v2.size()){
-    if(v1[i]<v2[j]){
-        res[k]=v1[i];
-        k++;
-        i++;
-    }
-    else{
-         res[k]=v2[j];
-         k++;
-         j++;
-    }
-}
-
-if(i==v1.size()){//means v1 is full
-while(k<res.size() && j<v2.size()){
-    res[k]=v2[j];
-    j++;
-    k++;
-}
-}
-else if(j==v2.size()){
-   while(k<res.size() && i<v1.size()){
-    res[k]=v1[i];
-    i++;
-    k++;
-} 
-}
+void merged(vector<int> v1,vector<int> v2,vector<int>&v){ 
+  int i=0,j=0,k=0;
+   while(i<v1.size() && j<v2.size()){
+        if(v1[i]<=v2[j]) v[k++]=v1[i++];
+        else v[k++]=v2[j++];
+   }
+   if(i==v1.size()){
+    while(j<v2.size() && k<v.size()) v[k++]=v2[j++];
+   }
+   if(j==v2.size()){
+    while(i<v1.size() && k<v.size()) v[k++]=v1[i++];
+   }
 return;
 
 }
@@ -50,6 +33,8 @@ sort(v1);
 sort(v2);
 
 merged(v1,v2,v);
+ v1.clear();
+     v2.clear();
 }
     vector<int> sortArray(vector<int>& v) {
 sort(v);
