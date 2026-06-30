@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0119-pascals-triangle-ii](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0031-next-permutation) |
+| [0119-pascals-triangle-ii](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0912-sort-an-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0912-sort-an-array) |
