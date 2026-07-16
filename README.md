@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2469-convert-the-temperature](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2469-convert-the-temperature) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
