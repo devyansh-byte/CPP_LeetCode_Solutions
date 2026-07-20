@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1678-goal-parser-interpretation) |
 | [2000-reverse-prefix-of-word](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 ## Union-Find
 |  |
 | ------- |
