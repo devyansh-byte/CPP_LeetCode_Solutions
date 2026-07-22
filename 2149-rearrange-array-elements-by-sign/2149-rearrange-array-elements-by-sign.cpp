@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& arr) {
+        //brute force solution.
         int n=arr.size();
         vector<int> pos;
         vector<int> neg;
