@@ -1,33 +1,42 @@
-
 class Solution {
 public:
-ListNode* reversell(ListNode* head){
-      if(head==NULL || head->next==NULL) return head;
-       ListNode* newhead = reversell(head->next);
-       head->next->next=head;
-       head->next=NULL;
-       return newhead;
-    
-}
     bool isPalindrome(ListNode* head) {
-        ListNode* t=new ListNode(200);
-         ListNode* tempt=t;
-         ListNode* temp1=head;
-         while(temp1!=NULL){
-             ListNode* m=new ListNode(temp1->val);
-           tempt->next=m;
-           tempt=m;
-           temp1=temp1->next;
-         }
-        ListNode* newll=reversell(t->next);
+        if(head==NULL || head->next==NULL) return true;
         ListNode* temp=head;
+        int n=0;
         while(temp!=NULL){
-            if(newll->val!= temp->val){
-                return false;
-            }
-            newll=newll->next;
-            temp=temp->next;
+             n++;
+              temp=temp->next;
         }
-        return true;
+         ListNode* prev=NULL;
+          ListNode* curr=head;
+           ListNode* nxt=head->next;
+           if(n%2==0){
+       for(int i=0;i<n/2;i++){
+        curr->next=prev;
+        prev=curr;
+        curr=nxt;
+        nxt=nxt->next;
+       }
+       while(prev!=NULL){
+        if(prev->val!=curr->val) return false;
+        prev=prev->next;
+        curr=curr->next;
+       }
+           }
+           else{
+            for(int i=0;i<n/2;i++){
+        curr->next=prev;
+        prev=curr;
+        curr=nxt;
+        nxt=nxt->next;
+       }
+       while(prev!=NULL){
+        if(prev->val!=nxt->val) return false;
+        prev=prev->next;
+        nxt=nxt->next;
+       }
+           }
+           return true;
     }
 };
