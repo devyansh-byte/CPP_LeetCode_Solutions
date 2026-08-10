@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0875-koko-eating-bananas](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0877-stone-game) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0912-sort-an-array) |
 ## Math
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -217,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
