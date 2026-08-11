@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0912-sort-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0229-majority-element-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Union-Find
 |  |
 | ------- |
