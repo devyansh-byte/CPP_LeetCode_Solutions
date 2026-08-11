@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0326-power-of-three) |
 ## Prefix Sum
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
