@@ -1,17 +1,16 @@
 class Solution {
 public:
-    int minimumPushes(string word) {
-      vector<int> freq(26, 0);
-        for (int i = 0; i < word.size(); i++) {
-            freq[word[i] - 'a']++;
+    int minimumPushes(string arr) {
+        int n=arr.size();
+        int count=0;
+        int counter=0;
+        for(int i=0;i<n;i++){
+            if(counter<8) count++;
+            else if(counter<16) count+=2;
+            else if(counter<24) count+=3;
+            else count+=4;
+            counter++;
         }
-        sort(freq.rbegin(), freq.rend());
-
-        int ans = 0;
-        for (int i = 0; i < 26; i++) {
-
-            ans = ans + freq[i] * ((i / 8) + 1);
-        }
-        return ans;
+    return count;
     }
 };
