@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
