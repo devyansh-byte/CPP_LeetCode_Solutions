@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1678-goal-parser-interpretation) |
 | [2000-reverse-prefix-of-word](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
