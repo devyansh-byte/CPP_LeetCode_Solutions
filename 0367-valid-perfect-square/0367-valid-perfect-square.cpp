@@ -2,12 +2,14 @@ class Solution {
 public:
     bool isPerfectSquare(int num) {
         if(num==1) return true;
-        double x=2.0;
-       for(int i=0;i<num;i++){
-        if((double)num/x==x) return true;
-       else if((double)num/x < x) return false;
-       else x++;
-       }
+    int lo=1;
+    int hi=num;
+    while(lo<=hi){
+        long long mid=lo+(hi-lo)/2;
+        if(mid*mid==num) return true;
+        else if(mid*mid>num) hi=mid-1;
+          else lo=mid+1;
+    }
        return false;
     }
 };
