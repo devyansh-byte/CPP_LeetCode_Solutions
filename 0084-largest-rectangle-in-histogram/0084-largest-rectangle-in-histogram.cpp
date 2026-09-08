@@ -15,12 +15,12 @@ public:
             else pse[i]=st.top();
                 st.push(i);
         }
-          stack<int> pt;
+        while (!st.empty()) st.pop();
           for(int i=n-1;i>=0;i--){
-             while(pt.size()!=0 && arr[pt.top()]>arr[i]) pt.pop();
-            if(pt.size()==0) nse[i]=n;
-            else nse[i]=pt.top();
-                pt.push(i);
+             while(st.size()!=0 && arr[st.top()]>arr[i]) st.pop();
+            if(st.size()==0) nse[i]=n;
+            else nse[i]=st.top();
+                st.push(i);
           }
           int maxarea=0;
           for(int i=0;i<n;i++){
