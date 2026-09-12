@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1920-build-array-from-permutation](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Trie
 |  |
