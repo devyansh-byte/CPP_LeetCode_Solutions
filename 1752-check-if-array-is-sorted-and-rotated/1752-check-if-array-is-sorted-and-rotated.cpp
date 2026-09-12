@@ -12,7 +12,6 @@ public:
           count++;
             } 
           if(arr[i] > max) return false;
-         //   else if(arr[i]==max && idx!=0) return false;
         }
         if(count<2) return true;
         else return false;
