@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1952-three-divisors](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1952-three-divisors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
@@ -312,4 +314,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
