@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0412-fizz-buzz) |
+| [1021-remove-outermost-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Quicksort
 |  |
 | ------- |
