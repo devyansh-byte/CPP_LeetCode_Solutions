@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [4030-check-ascii-palindromic](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/4030-check-ascii-palindromic) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [4030-check-ascii-palindromic](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/4030-check-ascii-palindromic) |
 ## Stack
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [4030-check-ascii-palindromic](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/4030-check-ascii-palindromic) |
 ## Simulation
 |  |
 | ------- |
