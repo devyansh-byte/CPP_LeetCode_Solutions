@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [0622-design-circular-queue](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0622-design-circular-queue) |
 | [0875-koko-eating-bananas](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0912-sort-an-array) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Game Theory
@@ -356,4 +358,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
