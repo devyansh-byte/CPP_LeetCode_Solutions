@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1920-build-array-from-permutation) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0412-fizz-buzz) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -365,4 +368,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0622-design-circular-queue) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
