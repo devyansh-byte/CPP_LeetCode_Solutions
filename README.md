@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -365,10 +366,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
