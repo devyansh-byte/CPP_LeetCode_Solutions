@@ -13,14 +13,5 @@ public:
  else pos+=arr[i]*arr[i];
      }
      return pos-neg;
-        
-    //     else{//odd size
-    //     long long pos=0;
-    //     long long neg=0;
-    //     for(int i=0;i<n;i++){
-    //    if(i<n/2) neg+=arr[i]*arr[i];
-    //    else pos+=arr[i]*arr[i];
-    //  }
-    //     }
     }
 };
