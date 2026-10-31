@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0412-fizz-buzz) |
+| [0649-dota2-senate](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0649-dota2-senate) |
 | [1021-remove-outermost-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0649-dota2-senate](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0649-dota2-senate) |
 | [1903-largest-odd-number-in-string](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Polygons
 |  |
