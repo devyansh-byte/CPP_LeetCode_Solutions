@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0877-stone-game) |
+| [1402-reducing-dishes](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1402-reducing-dishes) |
 ## Backtracking
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1402-reducing-dishes](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1402-reducing-dishes) |
 | [1470-shuffle-the-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1402-reducing-dishes](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1402-reducing-dishes) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/3024-type-of-triangle) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0649-dota2-senate](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0649-dota2-senate) |
+| [1402-reducing-dishes](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1402-reducing-dishes) |
 | [1903-largest-odd-number-in-string](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
