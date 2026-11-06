@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-reducing-dishes](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1402-reducing-dishes) |
 | [1470-shuffle-the-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-reducing-dishes](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1402-reducing-dishes) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
