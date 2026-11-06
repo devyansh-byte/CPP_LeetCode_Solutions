@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0649-dota2-senate](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0649-dota2-senate) |
 | [0844-backspace-string-compare](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0649-dota2-senate](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0649-dota2-senate) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1402-reducing-dishes](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1402-reducing-dishes) |
 | [1903-largest-odd-number-in-string](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/devyansh-byte/CPP_LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Quicksort
 |  |
